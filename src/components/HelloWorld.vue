@@ -3,7 +3,7 @@
     <img alt="Vue logo" class="h-64" src="../assets/twitter.jpg">
     <h1 class="capitalize text-3xl text-teal">Welcome To Twitter Sentiment</h1>
     <p class="p-2 text-xl w-1/2 m-auto">
-      Pick a topic you wanna know the sentiment about, Twitter Sentiment will pick tweets with the keyword you entered and classify them into positive, negative and neutral and calculate the percentages and show it to you on a pie 🥧 chart 📊. :smiley: please keep the results to your self thank you esp about political topics
+      Pick a topic you wanna know the sentiment about, Twitter Sentiment will pick tweets with the keyword you entered and classify them into positive, negative and neutral and calculate the percentages and show it to you on a pie 🥧 chart 📊. 
     </p>
     <button @click="start()" class="mt-6 py-2 px-4 text-xl text-bold text-teal border-2 border-teal rounded-full hover:bg-teal hover:text-white animate">
       Get Started
