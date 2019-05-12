@@ -9,10 +9,12 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "chart.js": "^2.8.0",
     "core-js": "^2.6.5",
     "tailwindcss": "^0.7.4",
     "vue": "^2.6.10",
-    "vue-chartjs": "^3.4.2"
+    "vue-chartjs": "^3.4.2",
+    "vue-router": "^3.0.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.7.0",
@@ -35,11 +37,6 @@
     "rules": {},
     "parserOptions": {
       "parser": "babel-eslint"
-    }
-  },
-  "postcss": {
-    "plugins": {
-      "autoprefixer": {}
     }
   },
   "browserslist": [
